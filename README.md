@@ -29,7 +29,12 @@ The project consists of the following main files:
 
 Loans.ipynb: The Jupyter notebook containing all the code and analysis.
 Loans Defaulter (Summary).pptx: A PowerPoint presentation summarizing the findings.
+
 To run the notebook, navigate to the project directory and start Jupyter Notebook:
+
+```sh
+jupyter notebook Loans.ipynb
+```
 
 ## Results
 After performing the analysis and classification, the model achieved the following results:
